@@ -1,0 +1,69 @@
+.ant-layout-sider-trigger {
+    background: #35A562;
+}
+
+.ant-list-items {
+    background: white;
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    overflow: visible;
+}
+
+ul {
+    overflow: visible;
+}
+
+.ant-slider {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.ant-slider-with-marks {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.ant-slider-rail {
+    background-color: white;
+}
+
+.ant-slider-handle {
+    background-color: #35A562;
+}
+
+.ant-menu-dark, .ant-menu-dark .ant-menu-sub {
+    background: #468AF5;
+    min-width: initial;
+    padding-left: 8%;
+}
+
+.ant-popover-title {
+    min-width: initial;
+    min-height: initial;
+}
+
+.ant-popover-inner-content {
+    display: none;
+}
+
+.ant-popover {
+    z-index: 10000;
+}
+
+@media screen and (min-width: 576px) {
+    #footMenu {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #sider {
+        display: none;
+    }
+    #header {
+        height: 0px;
+    }
+}
