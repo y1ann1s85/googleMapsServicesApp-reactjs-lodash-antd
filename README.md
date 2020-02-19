@@ -1,6 +1,6 @@
 Google Maps Services App
 
-https://maps-services-8631b.firebaseapp.com/
+https://gmaps-services.firebaseapp.com/
 
 Autosuggestion / Autocomplete
 Geolocation
